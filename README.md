@@ -9,7 +9,8 @@ We will be implementing the following steps to understand data, build a linear r
 3. Model Building
 4. Model Evaluation
 ## In this Repository
-This repository contains the dataset and a jupyter notebook, the notebook explains our approach in depth.
+This repository contains the dataset and a jupyter notebook, the notebook explains our approach in depth.\
+It also contains 3 pdf files, a summary, presentation and answers to few business questions.
 ## Outcomes
-Performed Exploratory Data Analysis on the dataset
+Performed Exploratory Data Analysis on the dataset.\
 Successfully built a Logistic regression model with an accuracy of 81%
